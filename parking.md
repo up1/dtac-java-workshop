@@ -7,7 +7,7 @@
 ===
 ### Success response
 
-* Status: 200
+* `Status`: `200`
 
 ```json
 [
